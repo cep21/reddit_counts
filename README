@@ -1,1 +1,7 @@
-Improved reddit RSS feed
+Improved reddit RSS feed.
+
+The original feed shows the number of comments at the end, which makes it difficult to filter for the best.  This feed adds the karma and comment count to the front.  For example: http://cep21.net/rssfeeds/reddit_counts.php
+
+For example:
+
+[1234] [100 comments] Lawl cats!d
